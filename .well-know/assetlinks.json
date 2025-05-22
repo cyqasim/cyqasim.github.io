@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.wanshifu.wanhelp",
-    "sha256_cert_fingerprints":
-    ["64:8C:42:D9:F6:4A:52:F0:A3:DF:E7:5A:E4:CC:08:36:E3:59:A9:C3:C9:9D:C2:C0:DA:2F:40:D0:1F:AF:9F:12"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.wanshifu.wanhelp",
+               "sha256_cert_fingerprints": ["64:8C:42:D9:F6:4A:52:F0:A3:DF:E7:5A:E4:CC:08:36:E3:59:A9:C3:C9:9D:C2:C0:DA:2F:40:D0:1F:AF:9F:12"] }
 }]
